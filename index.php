@@ -7,9 +7,9 @@
 	  <meta name="viewport" content="width=750px">
 	  <title>커미션 사이트(?)</title>
 	  <link href="header.css" rel="stylesheet" type="text/css">
-	  <link href="header.html" rel="stylesheet" type="text/css" >
   </head>
   <body>
+	  <a href="/header.html"></a>
   <script src="script.js"></script>
   <div class='conbutton'>
   <h1>전신</h1>
