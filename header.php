@@ -1,4 +1,4 @@
-<?php $path = $_SERVER['REQUEST_URI'] ?>
+<html>
 <header role='banner'>
 	<h1 class='logo'><a href='/'>HOME</a></h1>
   <div class='left header_link'>
@@ -11,3 +11,4 @@
     <a href='/signup.php' class='ss'>로그인</a>
   </div>
 </header>
+</html>
