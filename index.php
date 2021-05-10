@@ -9,9 +9,9 @@
     <link href='global.css' ref='stylesheet' type='text/css'>
 	  <link href="header.css" rel="stylesheet" type="text/css">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	  <link href="header.html">
   </head>
   <body>
-  	<?php require('header.php'); ?>
   <script src="script.js"></script>
   <div class='conbutton'>
   <h1>전신</h1>
