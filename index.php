@@ -6,10 +6,8 @@
 	  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
 	  <meta name="viewport" content="width=750px">
 	  <title>커미션 사이트(?)</title>
-    <link href='global.css' ref='stylesheet' type='text/css'>
 	  <link href="header.css" rel="stylesheet" type="text/css">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-	  <link href="header.html">
+	  <link href="header.html"rel="stylesheet" type="text/css" >
   </head>
   <body>
   <script src="script.js"></script>
