@@ -9,7 +9,7 @@
 	  <link href="header.css" rel="stylesheet" type="text/css">
   </head>
   <body>
-	  <a href="/header.html"></a>
+	<?php include('header.php'); ?>
   <script src="script.js"></script>
   <div class='conbutton'>
   <h1>전신</h1>
